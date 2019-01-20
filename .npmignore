@@ -1,0 +1,13 @@
+.git/
+.babelrc
+.eslintignore
+.eslintrc.json
+.solhint.json
+.travis.yml
+package-lock.json
+gen/
+scripts/
+test_tmp/
+perf.txt
+ISSUE_TEMPLATE.md
+config/
