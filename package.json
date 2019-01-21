@@ -39,14 +39,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhangyaocheng/eth-crypth-fixedcipher.git"
+    "url": "git+https://github.com/zhangyaocheng/eth-crypto-zyc.git"
   },
   "author": "pubkey--yaocheng zhang enhance it",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhangyaocheng/eth-crypth-fixedcipherissues"
+    "url": "https://github.com/zhangyaocheng/eth-crypto-zyc/issues"
   },
-  "homepage": "https://github.com/zhangyaocheng/eth-crypth-fixedcipher#readme",
+  "homepage": "https://github.com/zhangyaocheng/eth-crypto-zyc#readme",
   "devDependencies": {
     "assert": "1.4.1",
     "async-test-util": "1.6.2",
