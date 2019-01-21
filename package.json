@@ -1,6 +1,6 @@
 {
-  "name": "eth-crypth-zyc",
-  "version": "0.0.3",
+  "name": "eth-crypto-zyc",
+  "version": "0.0.4",
   "description": "Cryptographic functions for ethereum and how to use them with web3 and solidity",
   "keywords": [
     "ethereum",
