@@ -1,5 +1,5 @@
 {
-  "name": "eth-crypth-fixedcipher",
+  "name": "eth-crypth-zyc",
   "version": "0.0.2",
   "description": "Cryptographic functions for ethereum and how to use them with web3 and solidity",
   "keywords": [
