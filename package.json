@@ -1,6 +1,6 @@
 {
   "name": "eth-crypth-fixedcipher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cryptographic functions for ethereum and how to use them with web3 and solidity",
   "keywords": [
     "ethereum",
@@ -100,7 +100,7 @@
     "ts-node": "7.0.1",
     "typescript": "3.2.2",
     "uglify-es": "3.3.9",
-    "web3": "1.0.0-beta.34"
+    "web3": "0.20.0"
   },
   "dependencies": {
     "@types/bn.js": "4.11.3",
