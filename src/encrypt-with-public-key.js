@@ -17,7 +17,6 @@ export default function encryptWithPublicKey(publicKey, message) {
         iv: new Buffer("d100f13bf818aa7441ecc7edb34ebcb4",'hex')
     }
 
-    console.log("opts is:"+opts)
     return encrypt(
         new Buffer(pubString, 'hex'),
         Buffer(message),
